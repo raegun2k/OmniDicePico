@@ -5,3 +5,4 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 # Coming Soon!
+For now [check out the original fully open source OmniDice](https://github.com/raegun2k/OmniDice)
